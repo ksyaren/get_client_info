@@ -4,18 +4,6 @@ This project contains two scripts (`.bat` for Windows and `.sh` for Linux) that 
 
 ---
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Scripts](#scripts)
-   - [Windows Batch Script (`client-info.bat`)](#windows-batch-script-client-infobat)
-   - [Linux Shell Script (`client-info.sh`)](#linux-shell-script-client-infosh)
-3. [How to Use](#how-to-use)
-4. [Output](#output)
-5. [Contributing](#contributing)
-6. [License](#license)
-
----
-
 ## Project Overview
 
 The goal of this project is to:
